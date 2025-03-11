@@ -14,11 +14,13 @@ The Dragon series of hotends is sold by Phaetus and Trianglelabs. The Phaetus ve
 - TheRigid mounting solution enables "one-handed" nozzle changes.
 - It has a marginally longer melt-zone when compared to the E3D V6.
 - Uses standard M3x15mm thermistor and M6x20mm heater cartridge
+- Ceramic heatbreak is available to print abrasive materials.
 
 **Cons**
 - The slightly longer melt-zone gives results in low-medium flow rates ~15mm^3/s.
 - It is easy to strip the M1.4 screws that attach the heater block to the frame.
 - Some argue that the Dragon is a "clone" of the Slice Engineering Mosquito.
+- Tightly toleranced heat break is sensitive to poor quality filament that exceeds 1.75mm diameter.
 
 ### Dragon High Flow
 
